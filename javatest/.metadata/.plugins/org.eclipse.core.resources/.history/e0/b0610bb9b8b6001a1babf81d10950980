@@ -1,0 +1,13 @@
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Stringtoint a = new Stringtoint();
+		
+		System.out.println(a.getInt("abc573"));
+		System.out.println(a.getInt("a5b7c3"));
+	}
+
+}
